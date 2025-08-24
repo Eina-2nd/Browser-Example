@@ -1,0 +1,13 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  layout_width="fill";
+  orientation="vertical";
+
+  {
+    LuaWebView;
+    id="wv";
+    layout_width="match_parent";
+    layout_height="match_parent";
+  };
+};
